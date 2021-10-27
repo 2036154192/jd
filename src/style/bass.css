@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+input{
+    border: none;
+    outline: none;
+}
+
+/*共有属性 */
+.display_block{
+    display: block !important;
+}
+body{
+    background-color: #eee;
+}
